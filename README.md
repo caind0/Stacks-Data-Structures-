@@ -1,2 +1,2 @@
-# [Data-Structures]
-Stacks
+#Stacks [Data-Structures]
+
